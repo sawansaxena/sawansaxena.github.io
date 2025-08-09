@@ -2,7 +2,7 @@ title: "Sawan Saxena"
 name: "Sawan Saxena"
 description: "Senior Machine Learning Engineer | Building AI Solutions for Real-World Impact"
 url: "https://sawansaxena.github.io"
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 
 # Author settings
 author:
