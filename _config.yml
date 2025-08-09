@@ -1,0 +1,37 @@
+title: "Sawan Saxena"
+name: "Sawan Saxena"
+description: "Senior Machine Learning Engineer | Building AI Solutions for Real-World Impact"
+url: "https://sawansaxena.github.io"
+theme: minimal-mistakes-jekyll
+
+# Author settings
+author:
+  name: "Sawan Saxena"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Senior Machine Learning Engineer (13+ years in tech, 5 years in AI/ML)."
+  location: "India"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/sawansaxena"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/sawansaxena"
+
+# Navigation
+navigation:
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Blog"
+    url: /blog/
+
+# Theme settings
+minimal_mistakes_skin: "custom"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
